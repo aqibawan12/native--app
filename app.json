@@ -1,33 +1,14 @@
 {
   "expo": {
+    "slug": "jhbybhb",
     "name": "natives",
-    "slug": "natives",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+    "sdkVersion": "46.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "0daef63a-7838-4819-9c7a-f72fe57067f8"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
-  }
+    "owner": "loot.blog"
+  },
+  "name": "natives"
 }
